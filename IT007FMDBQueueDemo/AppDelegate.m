@@ -10,6 +10,10 @@
 
 @interface AppDelegate ()
 
+{
+    
+    int a;
+}
 @end
 
 @implementation AppDelegate
